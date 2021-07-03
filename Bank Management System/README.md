@@ -1,0 +1,1 @@
+This Project is made with C++ Language using OOPS and File System and is Console based and it is about the Bank System in which one can Create Account, Modify Record, Delete Record, Deposit and Withdraw Money, Search one's record and can See all Account Holder List with their Account Details
